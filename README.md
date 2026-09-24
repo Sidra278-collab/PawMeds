@@ -1,16 +1,35 @@
-# React + Vite
+# 🐾 PawMeds
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PawMeds is a responsive pet medication management app designed to help pet owners keep track of their pets, medications, dosage schedules, reminders, and veterinary notes in one place.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🐾 Pet profile management
+- 💊 Medication management
+- ⏰ Medication reminders
+- 🩺 Veterinary notes and instructions
+- 📊 Medication history
+- 📱 Responsive mobile-friendly interface
+- 🌙 Dark and light mode
+- 💾 Local data management
 
-## React Compiler
+## 🛠️ Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Capacitor
+- Android
 
-## Expanding the ESLint configuration
+## 📱 Android App
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+PawMeds is also configured as an Android application using Capacitor and can be built for Android devices.
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sidra278-collab/PawMeds.git
