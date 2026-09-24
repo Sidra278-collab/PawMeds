@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PawMeds</string>
+    <string name="title_activity_main">PawMeds</string>
+    <string name="package_name">com.pawmeds.app</string>
+    <string name="custom_url_scheme">com.pawmeds.app</string>
+</resources>
